@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(0deg, rgba(47,228,255,1), rgba(39,220,192,1));
+    background: linear-gradient(to left, rgba(47,228,255,1), rgba(39,220,192,1));
 }
 
 .cdiv {
